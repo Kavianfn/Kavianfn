@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavianfn
 - 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning CCNA
+- 🌱 I’m currently learning DevNet
 - 💞️ I’m looking to collaborate on SDN,VCPE,NFV
 - 📫 How to reach me ...
 
